@@ -6,7 +6,7 @@ DisasterMeshHub is an interactive, browser-based simulation platform designed to
 ---
 
 ## 🎯 Problem Statement
-During major environmental crises, centralized communication nodes (like cellular towers and electrical substations) are often physically compromised or heavily congested. This leaves individuals isolated even if emergency services are nearby. This simulator explores how direct device-to-device protocols (like BLE and Wi-Fi Direct) can spontaneously form ad-hoc, infrastructure-free routing networks to carry lifesaving data through a crowd.
+During major environmental crises, centralized communication nodes (like cellular towers and electrical substations) are often physically compromised or heavily congested. This leaves individuals isolated even if emergency services are nearby. This simulator explores how direct device-to-device protocols (like BLE(Bluetooth Low Energy) and Wi-Fi Direct) can spontaneously form Ad-hoc, infrastructure-free routing networks to carry lifesaving data through a crowd.
 
 ---
 
